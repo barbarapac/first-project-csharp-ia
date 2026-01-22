@@ -1,2 +1,2 @@
-# firt-project-charp-ia
+# first-project-csharp-ia
 Primeiro projeto utilizando IA em C#
